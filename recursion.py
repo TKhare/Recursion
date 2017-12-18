@@ -1,5 +1,7 @@
+#first two are not recursion, just square root and square
 def sqrt(x):
 	return x**.5
+#first two are not recursion, just square root and square
 def square(x):
 	return x**2
 def factorial(x):
